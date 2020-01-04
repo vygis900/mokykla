@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-// Kitas komentaras
-=======
 // Komentaras
->>>>>>> ddc5097c7595689721faabb993be546b8fa25db7
 #include <iostream>
 #include <iomanip>
 #include <fstream>
